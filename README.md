@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+title: ILS_NLP
 nav_exclude: true
 permalink: /:path/
 seo:
