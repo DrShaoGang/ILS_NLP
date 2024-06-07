@@ -3,7 +3,7 @@ title: Introduction to NLP
 ---
 
 Sep 28
-: [Java & Git](#)
+: [Java & Git](week-02.md)
   : [1.1](#)
 
 Sep 29
