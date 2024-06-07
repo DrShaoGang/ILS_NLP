@@ -1,5 +1,6 @@
 ---
-title: WhatsNLP
+layout: default
+title: What is NLP
 ---
 
 1 Introduction to Natural Language Processing 
