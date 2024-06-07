@@ -1,23 +1,16 @@
 ---
-title: Basic Data Structures
+title: Week 2 Text as Data
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+**KeyConcept**{: .label .label-purple }[What is NLP?](../notes/whatsnlp)
+   [[Video]](about.md)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+[Problems solved by using NLP](../notes/nlp_challenges)
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+[The different roles that work with NLP applications](../notes/NLP_roles)
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+
+**Reading**{: .label .label-blue } [Nguyen et al. 2020](https://www.frontiersin.org/articles/10.3389/frai.2020.00062/full)
+
+**Code**{: .label .label-red } [Python Fundamentals](https://colab.research.google.com/drive/1sdB5wwl5o5t5HFfLSTQsTMupu5EDhWi6?usp=sharing) 
