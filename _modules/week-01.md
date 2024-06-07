@@ -6,20 +6,11 @@ title: Week 1 Introduction to Natural Language Processing (NLP)
 **KeyConcept**{: .label .label-purple }[What is NLP?](week-02.md)
    [[Video]](about.md)
 
+[Problems solved by using NLP](#)
+
+[The different roles that work with NLP applications]
 
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+: **Reading**{: .label .label-blue } [Nguyen et al. 2020](https://www.frontiersin.org/articles/10.3389/frai.2020.00062/full)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+: **Code**{: .label .label-red }
