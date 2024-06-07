@@ -19,7 +19,12 @@ Human children, interacting with a rich multi-modality world and various forms o
 
 ## NLP example
 <div class="fig figcenter fighighlight">
-  <img src="/ILS_NLP/assets/images/alexa.jpg" width="40%"> 
+  <img src="(https://github.com/DrShaoGang/ILS_NLP/assets/images/alexa.jpg" width="40%"> 
   <div class="figcaption"> NLP example: “Alexa, what’s it like outside?”
 </div>
 </div>
+Here is a diagram of how Amazon Alexa uses NLP to create a conversation with users. First, an Amazon device, such as an Echo, records your words. The recording of your speech is sent to Amazon servers to be analyzed more efficiently. Amazon breaks down your phrase into individual sounds. Then, it connects to a database that contains the pronunciations of various words to find which words most closely correspond to the combination of individual sounds. Then, Alexa identifies important words to make sense of the tasks and to carry out corresponding functions. For instance, if Alexa notices words like outside or temperature, it opens the weather app. Finally, Amazon servers send the information back to your device, and Alexa speaks.
+
+
+
+## NLP workflow
