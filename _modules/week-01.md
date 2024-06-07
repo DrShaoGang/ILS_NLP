@@ -3,7 +3,7 @@ title: Week 1 Introduction to Natural Language Processing (NLP)
 ---
 
 
-**KeyConcept**{: .label .label-purple }[What is NLP?](week-02.md)
+**KeyConcept**{: .label .label-purple }[What is NLP?](whatsnlp.md)
    [[Video]](about.md)
 
 [Problems solved by using NLP](#)
