@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Sections
+title: Course Notes
 description: Listing of course modules and topics.
 ---
 
-# Sections
+# Course Notes
 
 {% for module in site.modules %}
 {{ module }}
