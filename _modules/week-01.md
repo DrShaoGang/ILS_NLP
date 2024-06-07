@@ -6,9 +6,9 @@ title: Week 1 Introduction to Natural Language Processing (NLP)
 **KeyConcept**{: .label .label-purple }[What is NLP?](../notes/whatsnlp)
    [[Video]](about.md)
 
-[Problems solved by using NLP](#)
+[Problems solved by using NLP](../notes/nlp_challenges)
 
-[The different roles that work with NLP applications](#)
+[The different roles that work with NLP applications](../notes/NLP_roles)
 
 
 **Reading**{: .label .label-blue } [Nguyen et al. 2020](https://www.frontiersin.org/articles/10.3389/frai.2020.00062/full)
