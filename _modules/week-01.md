@@ -1,5 +1,5 @@
 ---
-title: Week 1/: Introduction to NLP
+title: Week 1 Introduction to NLP
 ---
 
 Sep 28
