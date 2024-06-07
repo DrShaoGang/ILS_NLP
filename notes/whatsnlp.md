@@ -19,7 +19,7 @@ Human children, interacting with a rich multi-modality world and various forms o
 
 ## NLP example
 <div class="fig figcenter fighighlight">
-  <img src="/assets/images/alexa.jpeg" width="40%">
+  <img src="/assets/images/alexa.jpeg" width="40%"> 
   <div class="figcaption"> NLP example: “Alexa, what’s it like outside?”
 </div>
 </div>
