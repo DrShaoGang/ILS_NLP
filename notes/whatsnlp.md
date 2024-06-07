@@ -31,8 +31,6 @@ Here is a diagram of how Amazon Alexa uses NLP to create a conversation with use
 
 <div class="fig figcenter fighighlight">
   <img src="/ILS_NLP/assets/images/NLP_language_structure.jpg" width="60%"> 
-  <div class="figcaption"> NLP example: “Alexa, what’s it like outside?”
-</div>
 </div>
 
 NLP develops computational algorithms to analyze and represent human language automatically. Many NLP systems now use some form of machine learning. NLP works with the hierarchical structure of language. Words are at the lowest layer of the hierarchy. A group of words makes a phrase. The next level up in the hierarchy is a group of phrases, which make a sentence, and ultimately, sentences convey ideas. 
