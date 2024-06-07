@@ -4,7 +4,7 @@ title: Introduction to NLP
 
 Sep 28
 : [Java & Git](week-02.md)
-  : [1.1](#)
+  : [1.1](about.md)
 
 Sep 29
 : **Section**{: .label .label-purple }[Intro to Java](#)
