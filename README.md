@@ -5,7 +5,7 @@ nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Intro to Natural Langauge Processing (NLP)
+  name: Intro to Natural Langauge Processing 
 ---
 
 # Intro to Natural Langauge Processing (NLP)
