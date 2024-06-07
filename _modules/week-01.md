@@ -3,7 +3,7 @@ title: Week 1 Introduction to Natural Language Processing (NLP)
 ---
 
 
-[What is NLP?](week-02.md)
+[What is NLP?](week-02.md){: .label .label-purple }
    [[Video]](about.md)
 
 Sep 29
