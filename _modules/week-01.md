@@ -4,7 +4,7 @@ title: Week 1 Introduction to Natural Language Processing (NLP)
 
 
 [What is NLP](week-02.md)
-   [Video](about.md)
+   [[Video]](about.md)
 
 Sep 29
 : **Section**{: .label .label-purple }[Intro to Java](#)
