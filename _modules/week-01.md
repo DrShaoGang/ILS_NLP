@@ -8,7 +8,7 @@ title: Week 1 Introduction to Natural Language Processing (NLP)
 
 [Problems solved by using NLP](#)
 
-[The different roles that work with NLP applications]
+[The different roles that work with NLP applications](#)
 
 
 **Reading**{: .label .label-blue } [Nguyen et al. 2020](https://www.frontiersin.org/articles/10.3389/frai.2020.00062/full)
