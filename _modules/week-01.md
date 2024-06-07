@@ -6,7 +6,7 @@ title: Week 1 Introduction to Natural Language Processing (NLP)
 **KeyConcept**{: .label .label-purple }[What is NLP?](../notes/whatsnlp)
    [[Video]](about.md)
 
-[Problems solved by using NLP](../notes/nlp_challenges)
+[Problems solved by using NLP](../notes/NLP_challenges)
 
 [The different roles that work with NLP applications](../notes/NLP_roles)
 
