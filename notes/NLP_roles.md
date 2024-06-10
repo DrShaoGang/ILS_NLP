@@ -25,13 +25,13 @@ Data scientists and analysts acquire and prepare data. They also explore and ana
 Typical tasks: Acquire and prepare data, exploratory data analysis, present data analysis  <br>
  <br>
 
-## Applied science researcher
-You might also decide to work toward a career in science where you can apply ML technology to an NLP application. ML has had an impact on everything from astronomy to zoology, so many different paths are open to you. As an applied science researcher, your primary focus is on the type of science that you decide to concentrate on. For example, an applied science engineer might use ML to develop an NLP application that processes a large volume of medical diagnoses to look for patterns of misdiagnosis. <br>
- <br>
-Applied science researchers can be from many different disciplines. The tasks they undertake are specific to their particular domain of expertise. For example, a biology researcher might use NLP tools to analyze findings from a collection of lab summaries. <br>
- <br>
-Typical tasks: Using ML services to conduct research, applying NLP tools to a domain-specific application <br>
- <br>
+ ## ML Engineer
+NLP engineers need some skills that are similar to a data scientist’s skills. However, as an engineer, you focus more on programming skills and software architecture. As an ML engineer, you apply those skills to designing and developing ML systems. An ML engineer who works on an NLP application would be more involved in designing and implementing the end-to-end solution for the NLP problem. <br>
+
+NLP engineers evaluate and select algorithms and models that are appropriate to the specific NLP business problem. They also design end-to-end solutions and select appropriate tools to create those solutions. <br>
+
+Typical tasks: Evaluating and selecting algorithms, training and evaluating models, designing NLP applications
+
 
  ## Developer
  Many software developers are now adding NLP functionality to their applications. For example, voice interfaces and text analysis that are based on ML are becoming commonplace. As an ML developer who focuses on NLP, your primary focus is software development skills, but you also need some of the skills of a data scientist and ML engineer.<br>
@@ -43,6 +43,13 @@ As a software developer who works with NLP solutions, you are more likely to dev
 Typical tasks: Incorporating NLP models or services into an application<br>
  <br>
 
+## Applied science researcher
+You might also decide to work toward a career in science where you can apply ML technology to an NLP application. ML has had an impact on everything from astronomy to zoology, so many different paths are open to you. As an applied science researcher, your primary focus is on the type of science that you decide to concentrate on. For example, an applied science engineer might use ML to develop an NLP application that processes a large volume of medical diagnoses to look for patterns of misdiagnosis. <br>
+ <br>
+Applied science researchers can be from many different disciplines. The tasks they undertake are specific to their particular domain of expertise. For example, a biology researcher might use NLP tools to analyze findings from a collection of lab summaries. <br>
+ <br>
+Typical tasks: Using ML services to conduct research, applying NLP tools to a domain-specific application <br>
+ <br>
 
 
 
@@ -51,12 +58,6 @@ Typical tasks: Incorporating NLP models or services into an application<br>
 
 
 
-## ML Engineer
-NLP engineers need some skills that are similar to a data scientist’s skills. However, as an engineer, you focus more on programming skills and software architecture. As an ML engineer, you apply those skills to designing and developing ML systems. An ML engineer who works on an NLP application would be more involved in designing and implementing the end-to-end solution for the NLP problem. <br>
-
-NLP engineers evaluate and select algorithms and models that are appropriate to the specific NLP business problem. They also design end-to-end solutions and select appropriate tools to create those solutions. <br>
-
-Typical tasks: Evaluating and selecting algorithms, training and evaluating models, designing NLP applications
 
 
 
