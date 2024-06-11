@@ -8,7 +8,7 @@ permalink: /notes/textstages/
 # Text processing stages
 
 <div class="fig figcenter fighighlight">
-  <img src="/ILS_NLP/assets/images/textstages.jpg" width="60%"> 
+  <img src="/ILS_NLP/assets/images/textstages.jpg" width="60%" alt="text processing stages"> 
 </div>
 
 **Extract text from data sources** <br>
