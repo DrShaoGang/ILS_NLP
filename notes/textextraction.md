@@ -12,6 +12,7 @@ permalink: /notes/textextraction/
 ## **Unstructured Data** <br>
 Raw text<br>
 Extract words or sentences <br>
+<br>
 Image data<br> 
 Extract text from images<br>
 ## **Structured data**<br>
