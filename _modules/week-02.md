@@ -4,9 +4,9 @@ title: Week 2 Text as Data
 
 [Text processing stages](../notes/textstages)
 
-[Types of text extraction (stage 1)](../notes/textextraction)
+[Types of text extraction](../notes/textextraction)
 
-**KeyConcept**{: .label .label-purple }[Tasks for text processing (stage 2)](../notes/textprocessing)
+**KeyConcept**{: .label .label-purple }[Tasks for text processing](../notes/textprocessing)
    [[Video]](#)
 
 
