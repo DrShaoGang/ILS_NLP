@@ -2,15 +2,18 @@
 title: Week 2 Text as Data
 ---
 
+[Text processing stages](../notes/textstages)
 
-**KeyConcept**{: .label .label-purple }[What is NLP?](../notes/whatsnlp)
-   [[Video]](about.md)
+[Types of text extraction](../notes/textextraction)
 
-[Problems solved by using NLP](../notes/nlp_challenges)
-
-[The different roles that work with NLP applications](../notes/NLP_roles)
+**KeyConcept**{: .label .label-purple }[Tasks for text processing](../notes/textprocessing)
+   [[Video]](#)
 
 
-**Reading**{: .label .label-blue } [Nguyen et al. 2020](https://www.frontiersin.org/articles/10.3389/frai.2020.00062/full)
 
-**Code**{: .label .label-red } [Python Fundamentals](https://colab.research.google.com/drive/1sdB5wwl5o5t5HFfLSTQsTMupu5EDhWi6?usp=sharing) 
+[Stemming versus lemmatization](../notes/stemvslemmatize)
+
+
+**Reading**{: .label .label-blue } [Regular Expressions, Text Normalization, Edit Distance](https://web.stanford.edu/~jurafsky/slp3/2.pdf)
+
+**Code**{: .label .label-red } [Getting started with Text Preprocessing](https://www.kaggle.com/code/sudalairajkumar/getting-started-with-text-preprocessing) 
