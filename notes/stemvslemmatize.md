@@ -14,10 +14,10 @@ Whether stemming or lemmatizing gives you the best results depends on the type o
 
 In the example below, the lemmatized version has fewer tokens, and the words are and was are mapped to be. This mapping could improve the results of the model that you are training, depending on the problem that you are working on.
 
-Original sentence
-"the children are playing outside. the weather was better yesterday."
-Stemming => “the children are play outside. the weather was better yesterday”
-Lemmatization => “the child be play outside. the weather be good yesterday”
+Original sentence <br>
+"the children are playing outside. the weather was better yesterday."  <br>
+Stemming => “the children are play outside. the weather was better yesterday” <br>
+Lemmatization => “the child be play outside. the weather be good yesterday” <br>
 
 
 
