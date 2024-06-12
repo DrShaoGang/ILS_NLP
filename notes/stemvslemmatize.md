@@ -16,8 +16,8 @@ In the example below, the lemmatized version has fewer tokens, and the words are
 
 Original sentence <br>
 "the children are playing outside. the weather was better yesterday."  <br>
-Stemming => “the children are play outside. the weather was better yesterday” <br>
-Lemmatization => “the child be play outside. the weather be good yesterday” <br>
+Stemming => “the children are play outside. the weather was better yesterday” <br>
+Lemmatization => “the child be play outside. the weather be good yesterday” <br>
 
 
 
