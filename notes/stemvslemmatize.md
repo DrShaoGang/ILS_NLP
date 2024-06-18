@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Steming VS Lemmatization 
+title: Stemming VS Lemmatization 
 nav_exclude: true
 permalink: /notes/stemvslemmatize/
 ---
 
-# Steming VS Lemmatization 
+# Stemming VS Lemmatization 
 
 It is easier to build a stemmer for a language than it is to build a lemmatizer for that language. Stemming tends to be faster because it performs only some string manipulation. A lemmatizer is slower because it must look up each word, and you might also need to calculate which part of speech a word is. 
 While lemmatization is a more complex method and it usually works better than stemming to map a word to its stem form. 
