@@ -2,18 +2,17 @@
 title: Week 3 Word Embedding
 ---
 
-[Text processing stages](../notes/textstages)
+[Tokenization](../notes/token)
 
-[Types of text extraction](../notes/textextraction)
 
-**KeyConcept**{: .label .label-purple }[How the machine reads text](../notes/textprocessing)
+
+**KeyConcept**{: .label .label-purple }[How the machine reads text](../notes/textvectors)
    [[Video]](#)
 
 
+[Beyond word embeddings](../notes/sentenceembedding)
 
-[Stemming versus lemmatization](../notes/stemvslemmatize)
 
+**Reading**{: .label .label-blue } [Understanding word embedding-based analysis](http://wordvec.colorado.edu/word_embeddings.html)
 
-**Reading**{: .label .label-blue } [Regular Expressions, Text Normalization, Edit Distance](https://web.stanford.edu/~jurafsky/slp3/2.pdf)
-
-**Code**{: .label .label-red } [Getting started with Text Preprocessing](https://www.kaggle.com/code/sudalairajkumar/getting-started-with-text-preprocessing) 
+**Code**{: .label .label-red } [Word embeddings](#) 
