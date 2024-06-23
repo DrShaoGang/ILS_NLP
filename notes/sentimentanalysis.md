@@ -2,7 +2,7 @@
 layout: page
 title: Sentiment Analysis
 nav_exclude: true
-permalink: /notes/whatsnlp/
+permalink: /notes/sentimentanalysis/
 ---
 
 # Sentiment Analysis: Unveiling the emotional essences of content
