@@ -2,18 +2,17 @@
 title: Week 6 Topic Modeling
 ---
 
-[Text processing stages](../notes/textstages)
-
-[Types of text extraction](../notes/textextraction)
 
 **KeyConcept**{: .label .label-purple }[Not just a topic](../notes/textprocessing)
    [[Video]](#)
 
+[Topic modeling with LDA](../notes/textstages)
 
+[Topic modeling with Transformers](../notes/textextraction)
 
 [Stemming versus lemmatization](../notes/stemvslemmatize)
 
 
-**Reading**{: .label .label-blue } [Regular Expressions, Text Normalization, Edit Distance](https://web.stanford.edu/~jurafsky/slp3/2.pdf)
+**Reading**{: .label .label-blue } [What is topic modeling from datacamp](https://www.datacamp.com/tutorial/what-is-topic-modeling)
 
-**Code**{: .label .label-red } [Getting started with Text Preprocessing](https://www.kaggle.com/code/sudalairajkumar/getting-started-with-text-preprocessing) 
+**Code**{: .label .label-red } [Topic Modeling](#) 
