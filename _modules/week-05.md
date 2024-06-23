@@ -2,18 +2,19 @@
 title: Week 5 Information Extraction
 ---
 
-[Text processing stages](../notes/textstages)
+[Part of Speech](../notes/pos)
 
-[Types of text extraction](../notes/textextraction)
+[Name Entity recognition (NER)](../notes/ner)
 
-**KeyConcept**{: .label .label-purple }[From data to information](../notes/textprocessing)
+
+**KeyConcept**{: .label .label-purple }[From data to information](../notes/datatoinfo)
    [[Video]](#)
 
 
 
-[Stemming versus lemmatization](../notes/stemvslemmatize)
+[Regular Expression](../notes/regex)
 
 
-**Reading**{: .label .label-blue } [Regular Expressions, Text Normalization, Edit Distance](https://web.stanford.edu/~jurafsky/slp3/2.pdf)
+**Reading**{: .label .label-blue } [Named Entity Recognition from geeksforgeeks](https://www.geeksforgeeks.org/named-entity-recognition/)
 
-**Code**{: .label .label-red } [Getting started with Text Preprocessing](https://www.kaggle.com/code/sudalairajkumar/getting-started-with-text-preprocessing) 
+**Code**{: .label .label-red } [Information Extraction with NLTK and spaCY](#) 
