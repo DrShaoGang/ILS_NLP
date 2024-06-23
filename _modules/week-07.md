@@ -2,14 +2,12 @@
 title: Week 7 Large Language Models (LLMs)
 ---
 
-[Understand Transformers](../notes/transformerarc)
-
-[Bert explained](../notes/bertmodel)
-
 **KeyConcept**{: .label .label-purple }[LLMs, exploring the Giants' language](../notes/llms)
    [[Video]](#)
 
+[Understand Transformers](../notes/transformerarc)
 
+[Bert explained](../notes/bertmodel)
 
 [Different types of LLMs](../notes/llmstypes)
 
