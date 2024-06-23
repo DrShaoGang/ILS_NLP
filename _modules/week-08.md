@@ -2,18 +2,18 @@
 title: Week 8 Generative AI
 ---
 
-[Text processing stages](../notes/textstages)
+[Evolution of Machine Learning for practical use](../notes/mlhist)
 
-[Types of text extraction](../notes/textextraction)
+[Foundation models](../notes/foundationmodel)
 
-**KeyConcept**{: .label .label-purple }[How to chat with AI](../notes/textprocessing)
+**KeyConcept**{: .label .label-purple }[Prompt Engineering: How to chat with AI](../notes/prompt)
    [[Video]](#)
 
 
 
-[Stemming versus lemmatization](../notes/stemvslemmatize)
+[Application integration](../notes/aiapp)
 
 
-**Reading**{: .label .label-blue } [Regular Expressions, Text Normalization, Edit Distance](https://web.stanford.edu/~jurafsky/slp3/2.pdf)
+**Reading**{: .label .label-blue } [Generative AI: A Creative New World](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/)
 
 **Code**{: .label .label-red } [Getting started with Text Preprocessing](https://www.kaggle.com/code/sudalairajkumar/getting-started-with-text-preprocessing) 
