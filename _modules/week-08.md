@@ -16,4 +16,4 @@ title: Week 8 Generative AI
 
 **Reading**{: .label .label-blue } [Generative AI: A Creative New World](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/)
 
-**Code**{: .label .label-red } [Getting started with Text Preprocessing](https://www.kaggle.com/code/sudalairajkumar/getting-started-with-text-preprocessing) 
+**Code**{: .label .label-red } [Generative AI](#) 
