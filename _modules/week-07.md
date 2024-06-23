@@ -2,18 +2,18 @@
 title: Week 7 Large Language Models (LLMs)
 ---
 
-[Text processing stages](../notes/textstages)
+[Understand Transformers](../notes/transformerarc)
 
-[Types of text extraction](../notes/textextraction)
+[Bert explained](../notes/bertmodel)
 
-**KeyConcept**{: .label .label-purple }[LLMs, exploring the Giants' language](../notes/textprocessing)
+**KeyConcept**{: .label .label-purple }[LLMs, exploring the Giants' language](../notes/llms)
    [[Video]](#)
 
 
 
-[Stemming versus lemmatization](../notes/stemvslemmatize)
+[Different types of LLMs](../notes/llmstypes)
 
 
-**Reading**{: .label .label-blue } [Regular Expressions, Text Normalization, Edit Distance](https://web.stanford.edu/~jurafsky/slp3/2.pdf)
+**Reading**{: .label .label-blue } [Bert paper by Devlin et al.](https://arxiv.org/abs/1810.04805)
 
-**Code**{: .label .label-red } [Getting started with Text Preprocessing](https://www.kaggle.com/code/sudalairajkumar/getting-started-with-text-preprocessing) 
+**Code**{: .label .label-red } [Explore LLMs](#) 
