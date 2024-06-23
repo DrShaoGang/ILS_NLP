@@ -2,18 +2,18 @@
 title: Week 4 Sentiment Analysis
 ---
 
-[Text processing stages](../notes/textstages)
+[Sentiment analysis lexicons](../notes/lexicons)
 
-[Types of text extraction](../notes/textextraction)
+[Challenges of analyzing social media data](../notes/socialmedia)
 
-**KeyConcept**{: .label .label-purple }[Unveiling the emotional essences of content](../notes/textprocessing)
+**KeyConcept**{: .label .label-purple }[Unveiling the emotional essences of content](../notes/sentimentanalysis)
    [[Video]](#)
 
 
 
-[Stemming versus lemmatization](../notes/stemvslemmatize)
+[Algorithms for sentiment analysis ](../notes/sentimentmodels)
 
 
-**Reading**{: .label .label-blue } [Regular Expressions, Text Normalization, Edit Distance](https://web.stanford.edu/~jurafsky/slp3/2.pdf)
+**Reading**{: .label .label-blue } [Vader Paper by Hutto, C. & Gibert, E.](https://ojs.aaai.org/index.php/ICWSM/article/view/14550)
 
-**Code**{: .label .label-red } [Getting started with Text Preprocessing](https://www.kaggle.com/code/sudalairajkumar/getting-started-with-text-preprocessing) 
+**Code**{: .label .label-red } [Getting started with Text Preprocessing](#) 
