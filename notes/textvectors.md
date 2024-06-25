@@ -26,6 +26,12 @@ Bag-of-words (BOW) converts text data into numbers. BOW does this conversion by 
   <br>
 One challenge of BOW is how to handle new words that were not part of the original vocabulary. This issue is known as out-of-vocabulary (OOV), and you will come back to it later in this section.
 
+  <br>
+
+## Term Frequency (TF)
+Term frequency (TF): Increases the weight for common words in a document. <br>
+𝑡𝑓(𝑡𝑒𝑟𝑚, 𝑑𝑜𝑐)= (𝑛𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑡𝑖𝑚𝑒𝑠 𝑡ℎ𝑒 𝑡𝑒𝑟𝑚 𝑜𝑐𝑐𝑢𝑟𝑠 𝑖𝑛 𝑡ℎ𝑒 𝑑𝑜𝑐)/(𝑡𝑜𝑡𝑎𝑙 𝑛𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑡𝑒𝑟𝑚𝑠 𝑖𝑛 𝑡ℎ𝑒 𝑑𝑜𝑐)  <br>
+
 
 
 
