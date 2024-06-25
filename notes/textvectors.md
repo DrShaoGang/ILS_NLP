@@ -16,7 +16,7 @@ Bag-of-words (BOW) converts text data into numbers. BOW does this conversion by 
   - Word counts – Counts how many times the word appears in the text.
   - Frequencies – Provides a count of the words, normalized across the document.
 
-| Sentence                              | a | cat | dog | is | it | my | not | old | wolf |
+|                              | a | cat | dog | is | it | my | not | old | wolf |
 |---------------------------------------|---|---|---|---|---|---|---|---|---|
 | “It is a dog.”                        | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
 | “my cat is old”                       | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 1 | 0 |
