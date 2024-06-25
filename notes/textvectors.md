@@ -46,6 +46,7 @@ Inverse document frequency (IDF): Decreases the weights for commonly used words,
 <br>
 
 
+
 | Term  | IDF Calculation             |
 |-------|-----------------------------|
 | a     | log(3/3) + 1 = 1             |
@@ -57,6 +58,8 @@ Inverse document frequency (IDF): Decreases the weights for commonly used words,
 | not   | log(3/2) + 1 = 1.18          |
 | old   | log(3/2) + 1 = 1.18          |
 | wolf  | log(3/2) + 1 = 1.18          |
+
+
 <br>
 
 
