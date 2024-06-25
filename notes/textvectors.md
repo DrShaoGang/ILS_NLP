@@ -60,7 +60,21 @@ Inverse document frequency (IDF): Decreases the weights for commonly used words,
 <br>
 
 
+## TF-IDF
+Term frequency-inverse document frequency (TF-IDF): Combines term frequency and inverse document frequency. <br>
 
+𝑡𝑓_𝑖𝑑𝑓 (𝑡𝑒𝑟𝑚,𝑑𝑜𝑐)=𝑡𝑓(𝑡𝑒𝑟𝑚, 𝑑𝑜𝑐)∗𝑖𝑑𝑓(𝑡𝑒𝑟𝑚)  <br>
+
+|                              | a | cat | dog | is | it | my | not | old | wolf |
+|---------------------------------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
+| “It is a dog.”                        | 0.25    | 0       | 0.25    | 0.22    | 0.25    | 0       | 0       | 0       | 0       |
+| “my cat is old”                       | 0       | 0.3     | 0       | 0.22    | 0       | 0.3     | 0       | 0.3     | 0       |
+| “It is not a dog, it is a wolf.”      | 0.22    | 0       | 0.11    | 0.19    | 0.22    | 0       | 0.13    | 0       | 0.13    |
+
+
+ <br>
+
+ 
 
 
 
