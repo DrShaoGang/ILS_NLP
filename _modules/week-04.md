@@ -6,7 +6,7 @@ title: Week 4 Sentiment Analysis
 
 [Algorithms for sentiment analysis ](../notes/sentimentmodels)
 
-**KeyConcept**{: .label .label-purple }[Unveiling the emotional essences of content](../notes/sentimentanalysis)
+**KeyConcept**{: .label .label-purple }[Unveiling the emotional essences of content](https://github.com/DrShaoGang/ILS_NLP/blob/main/notes/Sentiment-Analysis.ipynb)
    [[Video]](#)
 
 
