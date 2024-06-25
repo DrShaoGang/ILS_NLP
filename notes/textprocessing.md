@@ -22,8 +22,7 @@ Performing tokenization  <br>
 ***Example of a raw text:*** Text preprocessing is an important NLP step b4 training a model. Tasks to correct speling, converting words to a better standard form & removing STOPWORDS.
 
 ***Remove stopwords:***
-Text preprocessing ~~is an~~{: .label .label-yellow } important NLP step b4 training a model. Tasks to correct speling, converting words to a better standard form & removing STOPWORDS.
-“Is an”, “to”, “to a”, and the ampersand are removed.
-
+Text preprocessing ~~is an~~{: .label .label-yellow } important NLP step b4 training ~~a~~{: .label .label-yellow } model. Tasks ~~to~~{: .label .label-yellow } correct speling, converting words ~~to a~~{: .label .label-yellow } better standard form & removing STOPWORDS. <br>
+Stopwords removed in the example: “Is an”, "a", “to”, “to a”
 
 
