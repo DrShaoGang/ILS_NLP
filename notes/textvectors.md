@@ -82,8 +82,7 @@ Term frequency-inverse document frequency (TF-IDF): Combines term frequency and 
 
 
 
-BOW
-TF-IDF
+To add:
 N-gram
 Word2Vec
 Bert embeddings
