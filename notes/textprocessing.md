@@ -18,11 +18,29 @@ Performing tokenization  <br>
 ## Remove stopwords
 ***Example of a raw text:*** Text preprocessing is an important NLP step b4 training a model. Tasks to correct speling, converting words to a better standard form & removing STOPWORDS.
 
-***Remove stopwords:***
-Text preprocessing <span style='background-color: yellow;'>~~is an~~</span> important NLP step b4 training <span style='background-color: yellow;'>~~a~~</span> model. Tasks <span style='background-color: yellow;'>~~to~~</span> correct speling, converting words <span style='background-color: yellow;'>~~to a~~</span> better standard form & removing STOPWORDS. <br>
+***Remove stopwords:*** <br>
+Task 3: Text preprocessing <span style='background-color: yellow;'>~~is an~~</span> important NLP step b4 training <span style='background-color: yellow;'>~~a~~</span> model. Tasks <span style='background-color: yellow;'>~~to~~</span> correct speling, converting words <span style='background-color: yellow;'>~~to a~~</span> better standard form & removing STOPWORDS. <br>
 Stopwords removed in the example: “Is an”, "a", “to”, “to a”
 
 ## Normalization
 Performing text normalization includes removing punctuations, converting numbers to text, and, converting text to lowercase.
+
+***Example after stopwords removal*** <br>
+Task 3: Text preprocessing important NLP step b4 training model. Tasks correct speling, converting words better standard form & removing STOPWORDS. <br>
+
+***normalize***<br>
+<span style='background-color: green;'>t</span>ask <span style='background-color: green;'>three</span> <span style='background-color: green;'>t</span>ext preprocessing important <span style='background-color: green;'>natural language processing</span> step <span style='background-color: green;'>before</span> training model <span style='background-color: green;'>t</span>asks correct <span style='background-color: green;'>spelling</span> converting words better standard form removing <span style='background-color: green;'>stopwords</span>
+<br>
+After normalization, punctuations are removed, all text is now lowercase. NLP acronym is spelled out. “b4” becomes “before”. Punctuation is removed and “speling” is corrected as “spelling”.
+
+
+
+
+
+
+
+
+
+
 
 
