@@ -12,7 +12,17 @@ Machines only understand numerical numbers. In this section, we will explore how
 Bag-of-words (BOW) converts text data into numbers. BOW does this conversion by creating a vocabulary from all the words in all the documents. It then calculates the occurrences. <br>
 - BOW creates a vocabulary from the words in all documents.
 - BOW Calculates the occurrences of words:
-  - Binary (present or not)
+  - Binary (present or not) - Indicates whether the word is present or not present.
+  - Word counts – Counts how many times the word appears in the text.
+  - Frequencies – Provides a count of the words, normalized across the document.
+ 
+  <br>
+One challenge of BOW is how to handle new words that were not part of the original vocabulary. This issue is known as out-of-vocabulary (OOV), and you will come back to it later in this section.
+
+
+
+
+
 
 
 
