@@ -9,9 +9,6 @@ permalink: /notes/textprocessing/
 
 Removing stopwords <br>
 Performing normalization tasks  <br>
-Removing punctuation  <br>
-Converting numbers to text  <br>
-Converting text to lowercase  <br>
 Stemming  <br>
 Performing lemmatization  <br>
 Tagging parts of speech  <br>
@@ -22,7 +19,10 @@ Performing tokenization  <br>
 ***Example of a raw text:*** Text preprocessing is an important NLP step b4 training a model. Tasks to correct speling, converting words to a better standard form & removing STOPWORDS.
 
 ***Remove stopwords:***
-Text preprocessing <span style='background-color: yellow;'>~~is an~~</span> important NLP step b4 training ~~a~~{: .label .label-yellow } model. Tasks ~~to~~{: .label .label-yellow } correct speling, converting words ~~to a~~{: .label .label-yellow } better standard form & removing STOPWORDS. <br>
+Text preprocessing <span style='background-color: yellow;'>~~is an~~</span> important NLP step b4 training <span style='background-color: yellow;'>~~a~~</span> model. Tasks <span style='background-color: yellow;'>~~to~~</span> correct speling, converting words <span style='background-color: yellow;'>~~to a~~</span> better standard form & removing STOPWORDS. <br>
 Stopwords removed in the example: “Is an”, "a", “to”, “to a”
+
+## Normalization
+Performing text normalization includes removing punctuations, converting numbers to text, and, converting text to lowercase.
 
 
