@@ -28,7 +28,7 @@ Performing text normalization includes removing punctuations, converting numbers
 ***Example after stopwords removal*** <br>
 Task 3: Text preprocessing important NLP step b4 training model. Tasks correct speling, converting words better standard form & removing STOPWORDS. <br>
 
-***normalize***<br>
+***Normalize***<br>
 <span style='background-color: green;'>t</span>ask <span style='background-color: green;'>three</span> <span style='background-color: green;'>t</span>ext preprocessing important <span style='background-color: green;'>natural language processing</span> step <span style='background-color: green;'>before</span> training model <span style='background-color: green;'>t</span>asks correct <span style='background-color: green;'>spelling</span> converting words better standard form removing <span style='background-color: green;'>stopwords</span>
 <br>
 After normalization, punctuations are removed, all text is now lowercase. NLP acronym is spelled out. “b4” becomes “before”. Punctuation is removed and “speling” is corrected as “spelling”.
