@@ -8,7 +8,7 @@ title: Week 6 Topic Modeling
 
 [Topic modeling with LDA](../notes/LDA)
 
-[Topic modeling with Transformers](../notes/Bertopic)
+[Topic modeling with Transformers](../notes/bertopic)
 
 
 
