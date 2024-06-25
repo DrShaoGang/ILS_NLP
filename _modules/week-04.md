@@ -16,4 +16,4 @@ title: Week 4 Sentiment Analysis
 
 **Reading**{: .label .label-blue } [Vader Paper by Hutto, C. & Gibert, E.](https://ojs.aaai.org/index.php/ICWSM/article/view/14550)
 
-**Code**{: .label .label-red } [Sentiment Analysis with machine learning algorithms](#) 
+**Code**{: .label .label-red } [Sentiment Analysis with machine learning algorithms](https://colab.research.google.com/drive/18MnNe-UYpY_oiJXIDk0YGPWpZYaN8CPX?usp=sharing) 
