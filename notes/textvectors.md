@@ -38,8 +38,26 @@ Term frequency (TF): Increases the weight for common words in a document. <br>
 | “my cat is old”                       | 0       | 0.25    | 0       | 0.25    | 0       | 0.25    | 0       | 0.25    | 0       |
 | “It is not a dog, it is a wolf.”      | 0.22    | 0       | 0.11    | 0.22    | 0.22    | 0       | 0.11    | 0       | 0.11    |
 
+  <br>
+
+## Inverse Document Frequency (IDF)
+Inverse document frequency (IDF): Decreases the weights for commonly used words, and increases weights for rare words that are in the vocabulary. <br>
+𝑖𝑑𝑓(𝑡𝑒𝑟𝑚)=log⁡(𝑛_𝑑𝑜𝑐𝑢𝑚𝑒𝑛𝑡𝑠/(𝑛_(𝑑𝑜𝑐𝑢𝑚𝑒𝑛𝑡𝑠 𝑐𝑜𝑛𝑡𝑎𝑖𝑛𝑖𝑛𝑔 𝑡ℎ𝑒 𝑡𝑒𝑟𝑚)+1))+1
+<br>
 
 
+| Term  | IDF Calculation             |
+|-------|-----------------------------|
+| a     | log(3/3) + 1 = 1             |
+| cat   | log(3/2) + 1 = 1.18          |
+| dog   | log(3/3) + 1 = 1             |
+| is    | log(3/4) + 1 = 0.87          |
+| it    | log(3/3) + 1 = 1             |
+| my    | log(3/2) + 1 = 1.18          |
+| not   | log(3/2) + 1 = 1.18          |
+| old   | log(3/2) + 1 = 1.18          |
+| wolf  | log(3/2) + 1 = 1.18          |
+<br>
 
 
 
