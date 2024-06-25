@@ -17,3 +17,13 @@ Performing lemmatization  <br>
 Tagging parts of speech  <br>
 Performing tokenization  <br>
 
+
+## Remove stopwords
+***Example of a raw text:*** Text preprocessing is an important NLP step b4 training a model. Tasks to correct speling, converting words to a better standard form & removing STOPWORDS.
+
+***Remove stopwords:***
+Text preprocessing ~~is an~~{: .label .label-yellow } important NLP step b4 training a model. Tasks to correct speling, converting words to a better standard form & removing STOPWORDS.
+“Is an”, “to”, “to a”, and the ampersand are removed.
+
+
+
