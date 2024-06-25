@@ -8,7 +8,7 @@ permalink: /notes/sentenceembedding/
 # Beyond Word Embeddings
 
 ## how-to-understand-bert 🤗
-In this repository, I have collected different sources, visualizations and code examples of BERT. I had been doing this during learning material of BERT. Perhaps, I should call this repository like "how-I-understand-bert" 🤔
+This is a collection of Bert Learning resources created by [Roman Kryvokhyzha](https://github.com/kryvokhyzha/how-to-understand-bert/tree/main). The tokenization in context of BERT provides great details of the embeddings used in Bert.
 
 ****
 
