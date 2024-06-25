@@ -11,7 +11,7 @@ list of machine learning models for sentiment from NLTK, SPACY, SKLearn, Bert)
 
 
 ##  NLTK
-NLTK (Natural Language Toolkit) is a Python library for natural language processing that includes several tools for sentiment analysis, including classifiers and sentiment lexicons. NLTK is a well-established and widely used library for natural language processing, and its sentiment analysis tools are particularly powerful when combined with other NLTK tools.
+[NLTK (Natural Language Toolkit)](https://www.nltk.org/howto/sentiment.html) is a Python library for natural language processing that includes several tools for sentiment analysis, including classifiers and sentiment lexicons. NLTK is a well-established and widely used library for natural language processing, and its sentiment analysis tools are particularly powerful when combined with other NLTK tools.
 
 ***Key Features*** 
 - A comprehensive library for natural language processing.
