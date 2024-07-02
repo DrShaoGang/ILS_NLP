@@ -2,12 +2,14 @@
 title: Week 4 Sentiment Analysis
 ---
 
-[Sentiment analysis lexicons](../notes/lexicons)
+**KeyConcept**{: .label .label-purple }[Unveiling the emotional essences of content](https://github.com/DrShaoGang/ILS_NLP/blob/main/notes/Sentiment-Analysis.ipynb)
+   [[Video]](#)
+   
+
 
 [Algorithms for sentiment analysis ](../notes/sentimentmodels)
 
-**KeyConcept**{: .label .label-purple }[Unveiling the emotional essences of content](https://github.com/DrShaoGang/ILS_NLP/blob/main/notes/Sentiment-Analysis.ipynb)
-   [[Video]](#)
+[Sentiment analysis lexicons](../notes/lexicons)
 
 
 [Challenges of analyzing social media data](../notes/socialmedia)
