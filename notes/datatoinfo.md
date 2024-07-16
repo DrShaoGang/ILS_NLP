@@ -57,3 +57,25 @@ Information extraction in NLP transforms raw textual data into structured, actio
 
 Understanding these processes equips NLP practitioners with the tools to unlock insights and extract meaningful information from large volumes of textual data.
 
+
+'''python
+# Example Python code for extracting product information from reviews
+
+reviews = [
+    "The camera quality of this phone is excellent.",
+    "The battery life is disappointing.",
+    "I love the sleek design of this laptop."
+]
+
+# Example of extracting sentiment towards product features
+for review in reviews:
+    if "camera" in review:
+        print(f"Review: {review}")
+        print("Sentiment towards camera: Positive")
+    elif "battery" in review:
+        print(f"Review: {review}")
+        print("Sentiment towards battery: Negative")
+    elif "design" in review:
+        print(f"Review: {review}")
+        print("Sentiment towards design: Positive")
+
