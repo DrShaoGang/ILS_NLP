@@ -46,10 +46,10 @@ NER would identify the following named entities:
 ## Applications of NER
 NER is used in various applications, including:
 
-Information Extraction: Extracting structured data from unstructured text.
-Question Answering: Finding answers by identifying relevant entities in text.
-Document Classification: Categorizing documents based on identified entities.
-Named Entity Disambiguation: Resolving ambiguity in entity names based on context.
+- **Information Extraction**: Extracting structured data from unstructured text.
+- **Question Answering**: Finding answers by identifying relevant entities in text.
+- **Document Classification**: Categorizing documents based on identified entities.
+- **Named Entity Disambiguation**: Resolving ambiguity in entity names based on context.
 NER plays a crucial role in enhancing the accuracy and efficiency of many NLP tasks by providing structured information about entities mentioned in text.
 
 ## NER in Python Example
