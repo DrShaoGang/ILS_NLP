@@ -62,3 +62,23 @@ print(clean_text)
 ### Explanation:
 - "[^\w\s]": Matches any character that is not a word character (\w) or whitespace (\s), effectively removing punctuation from the text.
 
+## Entity Recognition
+Regex can be used to extract entities like dates, email addresses, or phone numbers.
+```python
+import re
+
+text = "Please contact us at +1-555-123-4567 for any inquiries."
+phone_numbers = re.findall(r'\+?\d[\d -]{8,12}\d', text)
+print(phone_numbers)
+# Output: ['+1-555-123-4567']
+```
+### Explanation:
+- '\+?\d[\d -]{8,12}\d': Matches phone numbers that may start with a country code (\+?\d) followed by digits, spaces, or dashes ([\d -]{8,12}), and ending with a digit (\d). This pattern extracts phone numbers from the text, handling variations in formatting.
+
+
+## Tools and Libraries
+Python provides robust support for regex through the re module, making it easy to integrate regex into NLP pipelines. Other libraries like NLTK and spaCy also offer regex-based utilities for text processing in NLP tasks.
+
+## Conclusion
+Regular expressions are versatile tools that enhance text processing capabilities in NLP applications. By leveraging regex, you can efficiently tokenize text, clean data, perform pattern matching, and extract entities such as dates, email addresses, and phone numbers. Mastering regex patterns and syntax is essential for anyone working with text data in NLP, enabling more sophisticated and effective text processing solutions.
+
