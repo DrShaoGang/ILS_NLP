@@ -58,7 +58,7 @@ Information extraction in NLP transforms raw textual data into structured, actio
 Understanding these processes equips NLP practitioners with the tools to unlock insights and extract meaningful information from large volumes of textual data.
 
 
-'''python
+```python
 # Example Python code for extracting product information from reviews
 
 reviews = [
