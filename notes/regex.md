@@ -6,16 +6,27 @@ permalink: /notes/regex/
 ---
 
 # Regular Expression for Information Extraction
-# Regular Expressions (Regex) 
 
-Regular expressions (regex) are powerful tools for pattern matching and text manipulation. In NLP, regex is commonly used to identify and extract specific patterns of text, such as dates, email addresses, URLs, and more. They provide a flexible and efficient way to process textual data based on predefined rules.
+Regular expressions (regex) are powerful tools used for pattern matching and text processing. In the context of Natural Language Processing (NLP), regex can be particularly useful for tasks such as:
 
-## Basics of Regular Expressions
+- **Tokenization**: Breaking text into individual tokens (words or phrases).
+- **Text Cleaning**: Removing unwanted characters, punctuation, or formatting.
+- **Pattern Matching**: Identifying specific patterns or structures within text data.
+- **Entity Recognition**: Extracting entities like dates, email addresses, or phone numbers.
 
-Regular expressions consist of sequences of characters that define a search pattern. Here are some basic elements used in regex:
+## Basic Syntax
 
-- **Literal characters**: Characters that match themselves (e.g., `a`, `1`, `@`).
-- **Metacharacters**: Characters with special meanings in regex, such as `.`, `*`, `+`, `?`, `[`, `]`, `{`, `}`, `^`, `$`, `|`, `\`.
+Regex consists of special characters and sequences that define patterns. Here are some fundamental elements:
+
+- `.` - Matches any single character except newline.
+- `\d` - Matches any digit (0-9).
+- `\w` - Matches any alphanumeric character (equivalent to `[a-zA-Z0-9_]`).
+- `[ ]` - Matches any single character within the brackets.
+- `|` - Alternation, matches either the expression before or after the pipe.
+- `^` - Matches the start of a line.
+- `$` - Matches the end of a line.
+
+
 
 ## Common Use Cases in NLP
 
@@ -36,4 +47,18 @@ pattern = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
 emails = re.findall(pattern, text)
 
 print("Email addresses found:", emails)
+```
+## Text Cleaning and Tokenization
+Regex helps in cleaning and preprocessing text by removing unwanted characters, normalizing text (e.g., converting to lowercase), and tokenizing text into words or sentences.
+```python
+#Example: Removing Punctuation
+import re
+
+text = "Hello, World! How are you?"
+clean_text = re.sub(r'[^\w\s]', '', text)
+print(clean_text)
+# Output: Hello World How are you
+```
+### Explanation:
+[^\w\s]: Matches any character that is not a word character (\w) or whitespace (\s), effectively removing punctuation from the text.
 
