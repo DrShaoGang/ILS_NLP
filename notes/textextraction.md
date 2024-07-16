@@ -42,7 +42,9 @@ Extracted sentence: "consectetur adipiscing elit."
 - Using OCR (Optical Character Recognition) to extract text from images.
 
 Example:
-![Image with text](purduegate.jpg)
+<div class="fig figcenter fighighlight">
+  <img src="/ILS_NLP/assets/images/purduegate.jpg" width="40%" alt="an image of Purdue gate"> 
+</div>
 Extracted text: "Purdue University."
 
 ## Structured Data
