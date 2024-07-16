@@ -78,4 +78,4 @@ for review in reviews:
     elif "design" in review:
         print(f"Review: {review}")
         print("Sentiment towards design: Positive")
-
+```
