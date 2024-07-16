@@ -60,5 +60,5 @@ print(clean_text)
 # Output: Hello World How are you
 ```
 ### Explanation:
-[^\w\s]: Matches any character that is not a word character (\w) or whitespace (\s), effectively removing punctuation from the text.
+- "[^\w\s]": Matches any character that is not a word character (\w) or whitespace (\s), effectively removing punctuation from the text.
 
