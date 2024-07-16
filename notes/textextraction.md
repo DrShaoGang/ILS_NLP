@@ -42,8 +42,8 @@ Extracted sentence: "consectetur adipiscing elit."
 - Using OCR (Optical Character Recognition) to extract text from images.
 
 Example:
-![Image with text](image.jpg)
-Extracted text: "Example text extracted from the image."
+![Image with text](purduegate.jpg)
+Extracted text: "Purdue University."
 
 ## Structured Data
 
