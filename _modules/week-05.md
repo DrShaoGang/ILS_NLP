@@ -17,4 +17,4 @@ title: Week 5 Information Extraction
 
 **Reading**{: .label .label-blue } [Named Entity Recognition from geeksforgeeks](https://www.geeksforgeeks.org/named-entity-recognition/)
 
-**Code**{: .label .label-red } [Information Extraction with NLTK and spaCY](#) 
+**Code**{: .label .label-red } [Information Extraction with NLTK and spaCY](https://colab.research.google.com/drive/1NvDgaCuOZPvqVndyvAL-Qn1Vw75Cjosq?usp=sharing) 
