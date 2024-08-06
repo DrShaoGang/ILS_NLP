@@ -7,11 +7,6 @@ permalink: /notes/textextraction/
 
 # Types of text extraction
 
-
-
-
-
-
 ## Unstructured Data
 
 ### Raw Text
@@ -50,6 +45,8 @@ Example:
 | 2023-01-05 | Rent Payment       | $1200  |
 | 2023-01-10 | Utilities Payment  | $200   |
 
+
+
 ### Forms Data
 - Reading and extracting structured data from forms.
 
@@ -67,3 +64,7 @@ Extracted Data:
   "Age": 30,
   "Address": "123 Main Street, Anytown, NY"
 }
+
+
+## Conclusion
+Effective text extraction techniques are essential for transforming raw data into actionable insights. By understanding the different types of data and the corresponding extraction methods, you can leverage text extraction to improve data analysis and decision-making processes.
