@@ -64,4 +64,21 @@ Several libraries and tools are available to facilitate tokenization:
   text = "Natural Language Processing is fascinating. It has many applications."
   word_tokens = word_tokenize(text)
   sentence_tokens = sent_tokenize(text)
+  ```
+- **spaCy:** Offers efficient and accurate tokenization with built-in models for various languages.
+  ```python
+  import spacy
+  nlp = spacy.load('en_core_web_sm')
+  doc = nlp("Natural Language Processing is fascinating. It has many applications.")
+  word_tokens = [token.text for token in doc]
+  sentence_tokens = [sent.text for sent in doc.sents]
+  ```
+- **sTokenizers (by Hugging Face):** Provides advanced tokenization tools optimized for transformer models.
+
+  ```python
+  from tokenizers import Tokenizer
+  tokenizer = Tokenizer.from_file("path/to/tokenizer.json")
+  tokens = tokenizer.encode("Natural Language Processing is fascinating.")
+  ```
+    
 
