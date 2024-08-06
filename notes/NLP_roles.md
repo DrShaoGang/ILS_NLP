@@ -16,6 +16,7 @@ The demand for machine learning (ML) skills is growing rapidly. The ML roles sim
 &nbsp;  **Data analysis** <br>
  <br>
 
+The following are some example positions involved with NLP applications: 
 ## Data scientist or data analyst
 
 As a data scientist or data analyst, you use analytic and statistical skills to collect, analyze, and interpret large datasets. When you work on NLP applications, you might be asked to evaluate ML models to optimize outputs. For example, you could be asked to determine whether a topic modeling application correctly classifies topics, and whether classification errors are statistically significant. Data scientists and analysts often work with what are known as big data. Big data datasets are characterized by what is known as the four V’s (volume, variety, velocity, and veracity). <br>
@@ -25,7 +26,7 @@ Data scientists and analysts acquire and prepare data. They also explore and ana
 Typical tasks: Acquire and prepare data, exploratory data analysis, present data analysis  <br>
  <br>
 
- ## ML Engineer
+## ML Engineer
 NLP engineers need some skills that are similar to a data scientist’s skills. However, as an engineer, you focus more on programming skills and software architecture. As an ML engineer, you apply those skills to designing and developing ML systems. An ML engineer who works on an NLP application would be more involved in designing and implementing the end-to-end solution for the NLP problem. <br>
 
 NLP engineers evaluate and select algorithms and models that are appropriate to the specific NLP business problem. They also design end-to-end solutions and select appropriate tools to create those solutions. <br>
@@ -33,7 +34,7 @@ NLP engineers evaluate and select algorithms and models that are appropriate to 
 Typical tasks: Evaluating and selecting algorithms, training and evaluating models, designing NLP applications
 
 
- ## Developer
+## Developer
  Many software developers are now adding NLP functionality to their applications. For example, voice interfaces and text analysis that are based on ML are becoming commonplace. As an ML developer who focuses on NLP, your primary focus is software development skills, but you also need some of the skills of a data scientist and ML engineer.<br>
  <br>
 
