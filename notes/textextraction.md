@@ -43,6 +43,7 @@ Extracted text: "Purdue University."
 - Extracting structured data from tables, such as banking records or employment records.
 
 Example:
+
 | Date       | Description        | Amount |
 |------------|--------------------|--------|
 | 2023-01-01 | Salary Deposit     | $5000  |
