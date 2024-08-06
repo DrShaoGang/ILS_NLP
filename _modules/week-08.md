@@ -16,4 +16,4 @@ title: Week 8 Generative AI
 
 **Reading**{: .label .label-blue } [Generative AI: A Creative New World](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/)
 
-**Code**{: .label .label-red } [Generative AI](#) 
+**Code**{: .label .label-red } [Generative AI](https://colab.research.google.com/drive/1SHcrHfgi6mjI2WAcxGW_j9HYOYfHZyhO?usp=sharing) 
