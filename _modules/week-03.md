@@ -7,7 +7,7 @@ title: Week 3 Word Embedding
 
 
 **KeyConcept**{: .label .label-purple }[How the machine reads text](../notes/textvectors)
-   [[Video]](#)
+   
 
 
 [Beyond word embeddings](../notes/sentenceembedding)
