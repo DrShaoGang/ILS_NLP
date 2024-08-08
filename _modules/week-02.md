@@ -7,7 +7,7 @@ title: Week 2 Text as Data
 [Types of text extraction](../notes/textextraction)
 
 **KeyConcept**{: .label .label-purple }[Tasks for text processing](../notes/textprocessing)
-   [[Video]](#)
+   
 
 
 
