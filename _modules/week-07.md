@@ -3,7 +3,7 @@ title: Week 7 Large Language Models (LLMs)
 ---
 
 **KeyConcept**{: .label .label-purple }[LLMs, exploring the Giants' language](../notes/llms)
-   [[Video]](#)
+   
 
 [Understand Transformers](../notes/transformerarc)
 
