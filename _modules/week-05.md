@@ -8,7 +8,7 @@ title: Week 5 Information Extraction
 
 
 **KeyConcept**{: .label .label-purple }[From data to information](../notes/datatoinfo)
-   [[Video]](#)
+   
 
 
 
