@@ -7,7 +7,7 @@ title: Week 8 Generative AI
 [Foundation models](../notes/foundationmodel)
 
 **KeyConcept**{: .label .label-purple }[Prompt Engineering: How to chat with AI](../notes/prompt)
-   [[Video]](#)
+   
 
 
 
