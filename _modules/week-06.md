@@ -4,7 +4,7 @@ title: Week 6 Topic Modeling
 
 
 **KeyConcept**{: .label .label-purple }[Not just a topic](../notes/topicmodeling)
-   [[Video]](#)
+   
 
 [Topic modeling with LDA](../notes/lda)
 
