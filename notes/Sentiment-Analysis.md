@@ -1,3 +1,10 @@
+---
+layout: page
+title: Sentiment Analysis
+nav_exclude: true
+permalink: /notes/Sentiment-Analysis/
+---
+
 # Sentiment Analysis
 
 In this lesson, we're going to learn how to use [VADER](https://github.com/cjhutto/vaderSentiment), an English-language sentiment analysis tool designed for use with social media texts. This tool helps to calculate whether texts express positive or negative sentiment.
