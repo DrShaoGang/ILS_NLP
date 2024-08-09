@@ -2,7 +2,7 @@
 title: Week 4 Sentiment Analysis
 ---
 
-**KeyConcept**{: .label .label-purple }[Unveiling the emotional essences of content](https://github.com/DrShaoGang/ILS_NLP/blob/main/notes/Sentiment-Analysis.ipynb)
+**KeyConcept**{: .label .label-purple }[Unveiling the emotional essences of content](../notes/Sentiment-Analysis)
    
    
 
