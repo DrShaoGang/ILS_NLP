@@ -1,8 +1,3 @@
----
-layout: page
-title: Sentiment Analysis
-permalink: /notes/Sentiment-Analysis/
----
 
 # Sentiment Analysis
 
