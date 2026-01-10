@@ -16,4 +16,4 @@ title: Week 2 Text as Data
 
 **Reading**{: .label .label-blue } [Regular Expressions, Text Normalization, Edit Distance](https://web.stanford.edu/~jurafsky/slp3/2.pdf)
 
-**Code**{: .label .label-red } [Getting started with Text Preprocessing](https://www.kaggle.com/code/sudalairajkumar/getting-started-with-text-preprocessing) 
+**Code**{: .label .label-red } [Getting started with Text Preprocessing](https://colab.research.google.com/drive/16i-ZupnQ1LJ3c24KYI9zIAwoY_IRpJGu?usp=sharing) 
