@@ -13,4 +13,4 @@ title: Week 1 Introduction to Natural Language Processing (NLP)
 
 **Reading**{: .label .label-blue } [Nguyen et al. 2020](https://www.frontiersin.org/articles/10.3389/frai.2020.00062/full)
 
-**Code**{: .label .label-red } [Python Fundamentals](https://colab.research.google.com/drive/1sdB5wwl5o5t5HFfLSTQsTMupu5EDhWi6?usp=sharing) 
+**Code**{: .label .label-red } [Python Fundamentals](https://colab.research.google.com/drive/1X03mwS9jfyuZhE3bias5bgTKsdYXGNtO?usp=sharing) 
