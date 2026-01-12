@@ -57,11 +57,6 @@ defaults:
       layout: module
   - scope:
       path: ''
-      type: schedules
-    values:
-      layout: schedule
-  - scope:
-      path: ''
       type: announcements
     values:
       layout: announcement
