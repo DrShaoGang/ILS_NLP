@@ -16,13 +16,15 @@ Bag-of-words (BOW) converts text data into numbers. BOW does this conversion by 
   - Word counts – Counts how many times the word appears in the text.
   - Frequencies – Provides a count of the words, normalized across the document.
 
+<div style="overflow-x: auto;">
 |                              | a | cat | dog | is | it | my | not | old | wolf |
 |---------------------------------------|---|---|---|---|---|---|---|---|---|
 | “It is a dog.”                        | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
 | “my cat is old”                       | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 1 | 0 |
 | “It is not a dog, it is a wolf.”      | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 0 | 1 |
 
- 
+</div> 
+
   <br>
 One challenge of BOW is how to handle new words that were not part of the original vocabulary. This issue is known as out-of-vocabulary (OOV), and you will come back to it later in this section.
 
@@ -32,12 +34,14 @@ One challenge of BOW is how to handle new words that were not part of the origin
 Term frequency (TF): Increases the weight for common words in a document. <br>
 𝑡𝑓(𝑡𝑒𝑟𝑚, 𝑑𝑜𝑐)= (𝑛𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑡𝑖𝑚𝑒𝑠 𝑡ℎ𝑒 𝑡𝑒𝑟𝑚 𝑜𝑐𝑐𝑢𝑟𝑠 𝑖𝑛 𝑡ℎ𝑒 𝑑𝑜𝑐)/(𝑡𝑜𝑡𝑎𝑙 𝑛𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑡𝑒𝑟𝑚𝑠 𝑖𝑛 𝑡ℎ𝑒 𝑑𝑜𝑐)  <br>
 
+<div style="overflow-x: auto;">
 |                              | a | cat | dog | is | it | my | not | old | wolf |
 |---------------------------------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
 | “It is a dog.”                        | 0.25    | 0       | 0.25    | 0.25    | 0.25    | 0       | 0       | 0       | 0       |
 | “my cat is old”                       | 0       | 0.25    | 0       | 0.25    | 0       | 0.25    | 0       | 0.25    | 0       |
 | “It is not a dog, it is a wolf.”      | 0.22    | 0       | 0.11    | 0.22    | 0.22    | 0       | 0.11    | 0       | 0.11    |
 
+</div>
   <br>
 
 ## Inverse Document Frequency (IDF)
@@ -68,12 +72,14 @@ Term frequency-inverse document frequency (TF-IDF): Combines term frequency and 
 
 𝑡𝑓_𝑖𝑑𝑓 (𝑡𝑒𝑟𝑚,𝑑𝑜𝑐)=𝑡𝑓(𝑡𝑒𝑟𝑚, 𝑑𝑜𝑐)∗𝑖𝑑𝑓(𝑡𝑒𝑟𝑚)  <br>
 
+<div style="overflow-x: auto;">
 |                              | a | cat | dog | is | it | my | not | old | wolf |
 |---------------------------------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
 | “It is a dog.”                        | 0.25    | 0       | 0.25    | 0.22    | 0.25    | 0       | 0       | 0       | 0       |
 | “my cat is old”                       | 0       | 0.3     | 0       | 0.22    | 0       | 0.3     | 0       | 0.3     | 0       |
 | “It is not a dog, it is a wolf.”      | 0.22    | 0       | 0.11    | 0.19    | 0.22    | 0       | 0.13    | 0       | 0.13    |
 
+</div>
 
  <br>
 
