@@ -1,10 +1,9 @@
 table {
-  display: block;
-  overflow-x: auto;
-  white-space: nowrap;
+  width: 100%;
+  table-layout: fixed;
 }
 
-table th, table td {
-  min-width: 120px;
+th, td {
+  word-wrap: break-word;
+  white-space: normal;
 }
-
