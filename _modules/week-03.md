@@ -16,4 +16,4 @@ title: Week 3 Word Embedding
 **Reading**{: .label .label-blue } [Understanding word embedding-based analysis](http://wordvec.colorado.edu/word_embeddings.html) <br>
 **Reading**{: .label .label-blue } [Counting words by Michael Gavin](https://culturalanalytics.org/article/11830-is-there-a-text-in-my-data-part-1-on-counting-words)
 
-**Code**{: .label .label-red } [Word embeddings](https://colab.research.google.com/drive/1-3G_7F3CPHmo0labCMgm5loI38yKgw-7?usp=sharing)
+**Code**{: .label .label-red } [Word embeddings](https://colab.research.google.com/drive/1wHjUV8MWSVy806Ff-kAVZJr5zyNAox5o?usp=sharing)
